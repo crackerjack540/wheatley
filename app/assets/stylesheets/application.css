@@ -1,7 +1,11 @@
+@import "bootstrap";
+
+
 #contact {
 	float: left;
 	width: 25%;
-	padding-right: 25px;
+	padding-right: 24px;
+	text-align: left;
 }
 
 body{
